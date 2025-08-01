@@ -35,7 +35,7 @@
 
 ---
 
-<a href="https://github.com/Hongpung/application" target="blank">**프론트엔드**</a>-TypeScript, React, ReactNative, Jotai<br><br>
+<a href="https://github.com/Hongpung/application" target="blank">**모바일 어플리케이션**</a>-TypeScript, React, ReactNative, Jotai<br><br>
 <a href="https://github.com/Hongpung/backend" target="blank">**백엔드**</a>-TypeScript, MySQL, NestJS, Prisma<br><br>
 <a href="https://github.com/Hongpung/admin-page" target="blank">**어드민페이지 프론트엔드**</a>-TypeScript, Next.JS<br><br>
 
