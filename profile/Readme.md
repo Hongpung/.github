@@ -62,4 +62,4 @@
 <br>
 <br>
 
-<a href="https://www.notion.so/1d5f7b6d2d0f8086887edb8e610ead44"> **블로그: 프로젝트 회고** </a>
+<a href="https://almondine-hibiscus-9bf.notion.site/1d5f7b6d2d0f8086887edb8e610ead44"> **블로그: 프로젝트 회고** </a>
